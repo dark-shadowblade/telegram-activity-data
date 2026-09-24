@@ -913,8 +913,8 @@
       "end": "2026-09-24T17:23:58+05:30"
     }
   ],
-  "current_online_since": null,
+  "current_online_since": "2026-09-24T17:24:33.041227+05:30",
   "last_seen": "2026-09-24T17:23:58+05:30",
-  "last_status": "OFFLINE",
-  "updated_at": "2026-09-24T17:23:58.733483+05:30"
+  "last_status": "ONLINE",
+  "updated_at": "2026-09-24T17:24:33.041227+05:30"
 }
