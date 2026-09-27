@@ -829,8 +829,8 @@
       "end": "2026-09-27T23:36:20+05:30"
     }
   ],
-  "current_online_since": null,
+  "current_online_since": "2026-09-27T23:41:21.322559+05:30",
   "last_seen": "2026-09-27T23:36:20+05:30",
-  "last_status": "OFFLINE",
-  "updated_at": "2026-09-27T23:36:21.353331+05:30"
+  "last_status": "ONLINE",
+  "updated_at": "2026-09-27T23:41:21.322559+05:30"
 }
