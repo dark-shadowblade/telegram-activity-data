@@ -817,8 +817,8 @@
       "end": "2026-09-28T13:15:48+05:30"
     }
   ],
-  "current_online_since": null,
+  "current_online_since": "2026-09-28T13:27:16.757829+05:30",
   "last_seen": "2026-09-28T13:15:48+05:30",
-  "last_status": "OFFLINE",
-  "updated_at": "2026-09-28T13:16:38.749413+05:30"
+  "last_status": "ONLINE",
+  "updated_at": "2026-09-28T13:27:16.757829+05:30"
 }
