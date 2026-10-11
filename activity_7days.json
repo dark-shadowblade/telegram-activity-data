@@ -1,7 +1,12 @@
 {
-  "sessions": [],
-  "current_online_since": "2026-10-07T11:00:26.050634+05:30",
-  "last_seen": "2026-10-07T08:54:51+05:30",
-  "last_status": "RECENTLY",
-  "updated_at": "2026-10-11T06:09:28.200844+05:30"
+  "sessions": [
+    {
+      "start": "2026-10-07T11:00:26.050634+05:30",
+      "end": "2026-10-11T06:11:28+05:30"
+    }
+  ],
+  "current_online_since": null,
+  "last_seen": "2026-10-11T06:11:28+05:30",
+  "last_status": "OFFLINE",
+  "updated_at": "2026-10-11T06:11:29.348330+05:30"
 }
